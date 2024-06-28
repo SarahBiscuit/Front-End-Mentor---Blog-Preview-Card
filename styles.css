@@ -8,7 +8,7 @@ body{
 
   #headerImage {
     padding-top: 1.5rem;
-    padding-bottom: 8rem;
+    padding-bottom: 4rem;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     margin-top: .1rem;
@@ -34,6 +34,10 @@ body{
 
   #definition {
     width: 20rem;
+  }
+
+  #icon {
+    
   }
 
   //FORMAT IN DESKTOP VIEW//
