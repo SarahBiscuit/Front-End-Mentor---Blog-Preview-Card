@@ -3,6 +3,7 @@ body{
     position: absolute;
     display: flex;
     background-color: #febe00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
   #headerImage {
