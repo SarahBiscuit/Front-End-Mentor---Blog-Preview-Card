@@ -37,7 +37,13 @@ body{
   }
 
   #icon {
-    
+    float: right;
+    display: inline;
+  }
+
+  #name {
+    clear: right;
+    display: inline;
   }
 
   //FORMAT IN DESKTOP VIEW//
