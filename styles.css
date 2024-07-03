@@ -17,6 +17,7 @@ body{
     border-radius: 5%;
     position: relative;
     left: 33rem;
+    top: 4.5rem;
   }
 
   #learningBtn {
