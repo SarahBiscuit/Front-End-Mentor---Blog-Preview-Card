@@ -11,13 +11,12 @@ body{
     padding-bottom: 4rem;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
-    margin-top: .1rem;
-    margin-bottom: .1rem;
-    margin-left: .1rem;
-    margin-right: .1rem;
+    margin: 0 auto;
     border: .1rem solid black;
     background-color: #ffffff;
     border-radius: 5%;
+    position: relative;
+    left: 33rem;
   }
 
   #learningBtn {
