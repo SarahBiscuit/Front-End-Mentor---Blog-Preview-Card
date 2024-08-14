@@ -15,8 +15,3 @@ body{
   border: .1rem solid black;
 }
 
-header, footer {
-  color: #000000;
-  font-weight: bold;
-  text-align: center;
-}
